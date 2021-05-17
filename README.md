@@ -2,7 +2,7 @@
 >> Si. Aqui encontraras cursos, tools y de mas relacionado todo al hacking.
 >>> Bienvenido al camino hacker. ATT: xKyotto
 ___
-* [x] Criptografia (En Progreso...)
+* [x] Criptografia 
 * [ ] Programacion (En Progreso...)
 * [ ] Redes (En Progreso...)
 * [ ] Pentesting (En Progreso...)
