@@ -9,3 +9,6 @@ ___
 ___
 ## Criptografia Tools/Webs:
 [Decode JS Code](http://jsnice.org/)
+[Decode Base64](https://www.base64decode.org/)
+[Decode Rot-13](https://rot13.com/)
+[Decode XOR](https://www.browserling.com/tools/xor-decrypt)
