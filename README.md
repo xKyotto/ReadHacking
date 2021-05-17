@@ -13,3 +13,4 @@ ___
 [Decode Rot-13](https://rot13.com/)<br>
 [Decode XOR](https://www.browserling.com/tools/xor-decrypt)<br>
 [Decode AES256](https://encode-decode.com/aes256-encrypt-online/)
+[Decode Enigma](https://cryptii.com/pipes/enigma-decoder)
