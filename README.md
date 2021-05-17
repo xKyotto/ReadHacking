@@ -8,3 +8,4 @@ ___
 * [ ] Pentesting (En Progreso...)
 ___
 ## Criptografia Tools/Webs:
+[Decode JS Code](http://jsnice.org/)
