@@ -12,3 +12,4 @@ ___
 [Decode Base64](https://www.base64decode.org/)<br>
 [Decode Rot-13](https://rot13.com/)<br>
 [Decode XOR](https://www.browserling.com/tools/xor-decrypt)
+[Decode AES256](https://encode-decode.com/aes256-encrypt-online/)
