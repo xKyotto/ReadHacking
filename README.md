@@ -8,7 +8,7 @@ ___
 * [ ] Pentesting (En Progreso...)
 ___
 ## Criptografia Tools/Webs:
-[Decode JS Code](http://jsnice.org/)\n
-[Decode Base64](https://www.base64decode.org/)\n
-[Decode Rot-13](https://rot13.com/)\n
+[Decode JS Code](http://jsnice.org/)<br>
+[Decode Base64](https://www.base64decode.org/)<br>
+[Decode Rot-13](https://rot13.com/)<br>
 [Decode XOR](https://www.browserling.com/tools/xor-decrypt)
